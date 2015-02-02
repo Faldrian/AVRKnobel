@@ -4,7 +4,7 @@ Dieses Projekt ist ein Geschenk für einen Freund, der das Rätsel mittlerweile 
 
 Es handelt sich hierbei um ein Rätsel in Form eines ATMega8-Mikrocontrollers, der drei verschiedene Verhalten zeigt:
 
-1. Es wird an einem Port eine Morse-Sequenzausgegeben, die sich z.B. mit einer LED visualisieren lässt.
+1. Es wird an einem Port eine Morse-Sequenz ausgegeben, die sich z.B. mit einer LED visualisieren lässt.
 2. Es werden zwei Ports benutzt um Daten auszugeben; Ein Port ist die DATA-Leitung, der andere eine primitive CLOCK. Hier wird ein Textblock übertragen.
 3. Wie 2., nur dass ein SVGZ-Bild übertragen wird.
 
