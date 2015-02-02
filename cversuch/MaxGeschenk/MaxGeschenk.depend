@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405083590 source:/datenspeicher/home/timo/Dokumente/ATmega8/maxgeschenk/cversuch/MaxGeschenk/fuse.c
+	<avr/io.h>
+
+1405159597 source:/datenspeicher/home/timo/Dokumente/ATmega8/maxgeschenk/cversuch/MaxGeschenk/main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+
